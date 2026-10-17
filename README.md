@@ -2,6 +2,8 @@
 
 Songs by Murad Gurbanzada, straight from [Suno](https://suno.com/@gurbanzademurad45). A website and an Android app.
 
+**Live:** https://soundbymurad01.vercel.app
+
 - **Songs** page: every public song on the Suno profile, playable through Suno's embed player.
 - **Contact** page: email and links.
 
