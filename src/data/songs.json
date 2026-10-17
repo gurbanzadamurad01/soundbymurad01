@@ -1,0 +1,544 @@
+[
+  {
+    "id": "d11a6b83-97fa-426a-983c-8aa5f2d12c6d",
+    "title": "gelir gider",
+    "genre": "Alternative Rock",
+    "category": "Rock",
+    "plays": 14,
+    "model": "v6",
+    "duration": 192,
+    "released": "2026-10-14"
+  },
+  {
+    "id": "96238322-28c2-4edd-817e-9e2e395a1fc3",
+    "title": "Səni Unutsam",
+    "genre": "UK Bass",
+    "category": "Electronic & R&B",
+    "plays": 32,
+    "model": "v6",
+    "duration": 247,
+    "released": "2026-10-03"
+  },
+  {
+    "id": "2a7b053e-68f3-40c1-9d08-0372a71b314a",
+    "title": "Under Skin",
+    "genre": "Grunge",
+    "category": "Rock",
+    "plays": 20,
+    "model": "v6-mini",
+    "duration": 219,
+    "released": "2026-10-02"
+  },
+  {
+    "id": "55000396-969d-474b-8cc8-70f5d294be01",
+    "title": "Pişman Mısın?",
+    "genre": "Alternative Rock",
+    "category": "Rock",
+    "plays": 36,
+    "model": "v6",
+    "duration": 262,
+    "released": "2026-09-30"
+  },
+  {
+    "id": "77f97ec5-77f4-4c0e-912d-0252ee8f3b66",
+    "title": "Not Here to Play",
+    "genre": "UK Bass",
+    "category": "Electronic & R&B",
+    "plays": 40,
+    "model": "v6",
+    "duration": 246,
+    "released": "2026-09-29"
+  },
+  {
+    "id": "8edc2e34-660e-4b30-876a-e99554390a97",
+    "title": "Dəli Kimi",
+    "genre": "Jersey Club",
+    "category": "Electronic & R&B",
+    "plays": 26,
+    "model": "v6",
+    "duration": 167,
+    "released": "2026-09-27"
+  },
+  {
+    "id": "911ec0cf-e69b-4b64-85d0-4bf6a3531dce",
+    "title": "Ben Sevemem",
+    "genre": "Alternative Rock",
+    "category": "Rock",
+    "plays": 45,
+    "model": "v6",
+    "duration": 266,
+    "released": "2026-09-27"
+  },
+  {
+    "id": "b29a9be4-ed5d-4689-a1db-bf4fe850cfc7",
+    "title": "Mən Yaxşı Deyiləm",
+    "genre": "Electropop",
+    "category": "Pop",
+    "plays": 36,
+    "model": "v6",
+    "duration": 171,
+    "released": "2026-09-23"
+  },
+  {
+    "id": "fcc979c0-d9bd-466c-b7f1-b43cded2bbac",
+    "title": "Bay&Bayan (live AI)",
+    "genre": "R&B",
+    "category": "Electronic & R&B",
+    "plays": 29,
+    "model": "v6",
+    "duration": 218,
+    "released": "2026-09-22"
+  },
+  {
+    "id": "fc02b78a-155d-45fa-aa64-8e8c1732caba",
+    "title": "Mən yaşayıram",
+    "genre": "Ambient Rock",
+    "category": "Rock",
+    "plays": 62,
+    "model": "v6",
+    "duration": 283,
+    "released": "2026-09-17"
+  },
+  {
+    "id": "5e87257a-c204-45bd-8bfd-722a83231f37",
+    "title": "The Hopeband - Hesretle cekdim seklin",
+    "genre": "Funk Rock",
+    "category": "Rock",
+    "plays": 20,
+    "model": "v6",
+    "duration": 237,
+    "released": "2026-09-16"
+  },
+  {
+    "id": "6b44a6e9-9db5-43e6-a253-61ba5fa8668b",
+    "title": "The Night",
+    "genre": "Ambient-Rock",
+    "category": "Rock",
+    "plays": 67,
+    "model": "v6",
+    "duration": 234,
+    "released": "2026-09-14"
+  },
+  {
+    "id": "8b7fe97a-b0eb-44b4-963e-d58fd9a3ab73",
+    "title": "Son Vida",
+    "genre": "Rap",
+    "category": "Hip-Hop",
+    "plays": 23,
+    "model": "v6",
+    "duration": 237,
+    "released": "2026-09-12"
+  },
+  {
+    "id": "05906ca8-0a36-4cb1-bee9-7bad502d6fde",
+    "title": "Məşq Mövsümü Bitdi",
+    "genre": "Disko",
+    "category": "Pop",
+    "plays": 62,
+    "model": "v6",
+    "duration": 265,
+    "released": "2026-09-11"
+  },
+  {
+    "id": "ff9e3344-6e4e-4126-af03-38d0363b2b4f",
+    "title": "Yalnızlığa doyamadım",
+    "genre": "Rock",
+    "category": "Rock",
+    "plays": 117,
+    "model": "v6",
+    "duration": 212,
+    "released": "2026-09-11"
+  },
+  {
+    "id": "8e70ab58-fbfa-4b2c-bae9-3a33620bd7db",
+    "title": "Hikaye",
+    "genre": "Alternative Rock",
+    "category": "Rock",
+    "plays": 40,
+    "model": "v4.5-all",
+    "duration": 267,
+    "released": "2026-09-08"
+  },
+  {
+    "id": "e36a19ff-8af3-49d2-b3c9-cd5e0d30a606",
+    "title": "Qaranlıq Cənnət",
+    "genre": "Hip Hop",
+    "category": "Hip-Hop",
+    "plays": 56,
+    "model": "v5.5",
+    "duration": 184,
+    "released": "2026-08-31"
+  },
+  {
+    "id": "7cb0ae9b-691e-48ac-b60a-0fd0d1557424",
+    "title": "Nədənsə",
+    "genre": "Nu Metal",
+    "category": "Rock",
+    "plays": 36,
+    "model": "v5.5",
+    "duration": 178,
+    "released": "2026-08-30"
+  },
+  {
+    "id": "b98bd007-8310-4ec8-b11c-38e1c0bd9bdc",
+    "title": "sensin",
+    "genre": "Pop-Rock",
+    "category": "Rock",
+    "plays": 36,
+    "model": "v5.5",
+    "duration": 206,
+    "released": "2026-08-29"
+  },
+  {
+    "id": "b7365b02-da1c-4f0a-adf3-7de8d60aee11",
+    "title": "Rüya",
+    "genre": "Pop-Rock",
+    "category": "Rock",
+    "plays": 62,
+    "model": "v5.5",
+    "duration": 152,
+    "released": "2026-08-25"
+  },
+  {
+    "id": "871816d7-f673-469d-9369-64d9dfa194fe",
+    "title": "Mutsuz",
+    "genre": "Alternative Rock",
+    "category": "Rock",
+    "plays": 102,
+    "model": "v5.5",
+    "duration": 223,
+    "released": "2026-08-21"
+  },
+  {
+    "id": "d4f1c9c7-afb3-43b0-876d-5df6c2b09ec8",
+    "title": "Külək aparmasın",
+    "genre": "Indie Rock",
+    "category": "Rock",
+    "plays": 56,
+    "model": "v5.5",
+    "duration": 231,
+    "released": "2026-08-09"
+  },
+  {
+    "id": "2689123d-6b85-4059-bd04-09e5262ec090",
+    "title": "söylə",
+    "genre": "Indie Pop Rock",
+    "category": "Rock",
+    "plays": 56,
+    "model": "v5.5",
+    "duration": 254,
+    "released": "2026-08-01"
+  },
+  {
+    "id": "5a2c8df8-a465-4270-874f-e9698d842813",
+    "title": "far",
+    "genre": "Indie Folk",
+    "category": "Rock",
+    "plays": 86,
+    "model": "v5.5",
+    "duration": 195,
+    "released": "2026-07-20"
+  },
+  {
+    "id": "4e2adb5d-f1c8-4b38-81c3-a619e09767cc",
+    "title": "Love Me",
+    "genre": "Indie Slow Rock",
+    "category": "Rock",
+    "plays": 101,
+    "model": "v5.5",
+    "duration": 249,
+    "released": "2026-07-14"
+  },
+  {
+    "id": "36c35359-fa2e-4a58-a8ff-2c4b210c67c8",
+    "title": "Tonight, You're the Hero",
+    "genre": "Stadium Pop",
+    "category": "Pop",
+    "plays": 32,
+    "model": "v5.5",
+    "duration": 198,
+    "released": "2026-07-11"
+  },
+  {
+    "id": "d16bcaa1-3f55-4102-9196-1146cc8bbb6f",
+    "title": "Xəyalına Toxunasan",
+    "genre": "Indie Rock",
+    "category": "Rock",
+    "plays": 50,
+    "model": "v5.5",
+    "duration": 213,
+    "released": "2026-07-10"
+  },
+  {
+    "id": "5c8b3acc-2cb6-4787-896a-fe6f8d66e5b2",
+    "title": "Пятьдесят",
+    "genre": "Indie Pop",
+    "category": "Pop",
+    "plays": 94,
+    "model": "v5.5",
+    "duration": 209,
+    "released": "2026-07-07"
+  },
+  {
+    "id": "786dc214-b6cd-47bb-a2bc-1040604735d6",
+    "title": "эфире",
+    "genre": "Trap",
+    "category": "Hip-Hop",
+    "plays": 62,
+    "model": "v5.5",
+    "duration": 223,
+    "released": "2026-07-04"
+  },
+  {
+    "id": "45894f75-e52f-42c1-856e-ccefef1c1100",
+    "title": "Bahar #röya",
+    "genre": "Hip-Hop",
+    "category": "Hip-Hop",
+    "plays": 102,
+    "model": "v5.5",
+    "duration": 163,
+    "released": "2026-07-03"
+  },
+  {
+    "id": "da387d03-817d-4baf-99d2-93661b8c192c",
+    "title": "Форс",
+    "genre": "Modern Pop Rap",
+    "category": "Hip-Hop",
+    "plays": 126,
+    "model": "v5.5",
+    "duration": 148,
+    "released": "2026-07-01"
+  },
+  {
+    "id": "730a58f4-b575-4864-b33b-3ca014affd7a",
+    "title": "Тишина",
+    "genre": "Boom Bap Hip Hop",
+    "category": "Hip-Hop",
+    "plays": 56,
+    "model": "v5.5",
+    "duration": 228,
+    "released": "2026-06-29"
+  },
+  {
+    "id": "7ce415a6-fae6-4cfe-b512-1aee527185ba",
+    "title": "freestyle",
+    "genre": "Dark Trap",
+    "category": "Hip-Hop",
+    "plays": 50,
+    "model": "v5.5",
+    "duration": 335,
+    "released": "2026-06-29"
+  },
+  {
+    "id": "9893c608-027d-483e-93dc-777578fc9385",
+    "title": "mənim eşqim",
+    "genre": "Indie Rock",
+    "category": "Rock",
+    "plays": 92,
+    "model": "v5.5",
+    "duration": 223,
+    "released": "2026-06-26"
+  },
+  {
+    "id": "ede7bb85-e68f-479a-8cb3-f722eeaa3979",
+    "title": "yadimda deyil",
+    "genre": "Melodic Electronic",
+    "category": "Electronic & R&B",
+    "plays": 40,
+    "model": "v5.5",
+    "duration": 102,
+    "released": "2026-06-20"
+  },
+  {
+    "id": "e9574a5c-680a-489b-9551-07915f412a42",
+    "title": "Не Зря",
+    "genre": "Alternative R&B",
+    "category": "Electronic & R&B",
+    "plays": 69,
+    "model": "v5.5",
+    "duration": 229,
+    "released": "2026-06-19"
+  },
+  {
+    "id": "94adf871-236a-4b48-864e-c5ee19ae807b",
+    "title": "Папа Трэпа",
+    "genre": "Dark Russian Trap",
+    "category": "Hip-Hop",
+    "plays": 71,
+    "model": "v5.5",
+    "duration": 47,
+    "released": "2026-06-15"
+  },
+  {
+    "id": "eda16d53-9bd1-48cb-b4cc-191aa3a9520f",
+    "title": "Факт",
+    "genre": "Modern Russian Drill",
+    "category": "Hip-Hop",
+    "plays": 85,
+    "model": "v5.5",
+    "duration": 175,
+    "released": "2026-06-11"
+  },
+  {
+    "id": "c27e3cb8-48da-4a77-9c0b-1af0b67967eb",
+    "title": "Yalan",
+    "genre": "Indie Rock",
+    "category": "Rock",
+    "plays": 62,
+    "model": "v5.5",
+    "duration": 252,
+    "released": "2026-05-31"
+  },
+  {
+    "id": "970b23ad-8513-4367-a45d-9856db5ccd9a",
+    "title": "Scoreboard",
+    "genre": "Boom Bap",
+    "category": "Hip-Hop",
+    "plays": 36,
+    "model": "v5.5",
+    "duration": 119,
+    "released": "2026-05-21"
+  },
+  {
+    "id": "e4c928a8-1466-42bb-bc4b-6bd65a245782",
+    "title": "Therapy",
+    "genre": "Grunge",
+    "category": "Rock",
+    "plays": 62,
+    "model": "v5.5",
+    "duration": 245,
+    "released": "2026-05-14",
+    "explicit": true
+  },
+  {
+    "id": "e9eb88e6-4b4a-4533-992f-78e90eae35b0",
+    "title": "Soyuyan Çay",
+    "genre": "Psychedelic Pop Rock",
+    "category": "Rock",
+    "plays": 40,
+    "model": "v5.5",
+    "duration": 238,
+    "released": "2026-05-12"
+  },
+  {
+    "id": "3d21aa43-e8e6-449c-9e76-f9445889e63e",
+    "title": "Златая цепь",
+    "genre": "Cinematic Trap",
+    "category": "Hip-Hop",
+    "plays": 36,
+    "model": "v5.5",
+    "duration": 190,
+    "released": "2026-05-10"
+  },
+  {
+    "id": "bf99f2af-27e0-4124-bb2c-c242f26adf69",
+    "title": "Qaytar Eşqimi",
+    "genre": "Indie Rock",
+    "category": "Rock",
+    "plays": 182,
+    "model": "v5.5",
+    "duration": 248,
+    "released": "2026-05-08"
+  },
+  {
+    "id": "326cb50a-9c03-4558-be70-cb159ef6a875",
+    "title": "FUCK DOWN",
+    "genre": "Dark Boom Bap Trap",
+    "category": "Hip-Hop",
+    "plays": 62,
+    "model": "v5.5",
+    "duration": 161,
+    "released": "2026-05-07",
+    "explicit": true
+  },
+  {
+    "id": "35e89f1d-2baf-4786-9449-1a36807f8de4",
+    "title": "Transformación",
+    "genre": "Lofi Hip Hop",
+    "category": "Hip-Hop",
+    "plays": 32,
+    "model": "v5.5",
+    "duration": 262,
+    "released": "2026-05-07"
+  },
+  {
+    "id": "54d38914-81c5-4886-8a03-95b9d46d7e2d",
+    "title": "За облаками",
+    "genre": "Boom Bap Hip Hop",
+    "category": "Hip-Hop",
+    "plays": 29,
+    "model": "v5.5",
+    "duration": 213,
+    "released": "2026-05-03"
+  },
+  {
+    "id": "a2c7ed82-d99d-4284-8ae2-b3c0aa7aff2e",
+    "title": "Sun on My Face",
+    "genre": "Chill Jazzy Hip Hop",
+    "category": "Hip-Hop",
+    "plays": 20,
+    "model": "v5.5",
+    "duration": 171,
+    "released": "2026-05-03"
+  },
+  {
+    "id": "1fd098f7-f0a7-4d3f-8af2-7b36630a10bc",
+    "title": "Gəl, əl-ələ tutub gedək",
+    "genre": "Indie Alternative Rock",
+    "category": "Rock",
+    "plays": 35,
+    "model": "v5",
+    "duration": 175,
+    "released": "2026-02-14"
+  },
+  {
+    "id": "14356053-f95e-476f-b077-9c9bd1d2c069",
+    "title": "\"Əyyam\" live performance",
+    "genre": "Alternative Pop",
+    "category": "Pop",
+    "plays": 23,
+    "model": "v5",
+    "duration": 187,
+    "released": "2026-02-11"
+  },
+  {
+    "id": "3966b20b-36ca-4785-8c04-9abdb2514918",
+    "title": "Bu gecə (Hüseyn Cavid)",
+    "genre": "Indie Rock",
+    "category": "Rock",
+    "plays": 197,
+    "model": "v5",
+    "duration": 214,
+    "released": "2026-02-05"
+  },
+  {
+    "id": "f76881c4-0232-45bf-95ce-989398887c6f",
+    "title": "necə",
+    "genre": "Pop",
+    "category": "Pop",
+    "plays": 186,
+    "model": "v5",
+    "duration": 212,
+    "released": "2026-01-30"
+  },
+  {
+    "id": "06407eab-0b44-400e-bbdd-ff1663030390",
+    "title": "Yol",
+    "genre": "Indie Rock",
+    "category": "Rock",
+    "plays": 20,
+    "model": "v5",
+    "duration": 218,
+    "released": "2025-12-13"
+  },
+  {
+    "id": "ac7d9a59-cbcb-4145-a383-069d39c7182b",
+    "title": "Oğul mənimdir əgər, oxutmuram, əl çəkin!",
+    "genre": "",
+    "category": "Other",
+    "plays": 18,
+    "model": "v4",
+    "duration": 217,
+    "released": "2025-04-23"
+  }
+]

@@ -1,0 +1,6 @@
+node_modules
+dist
+*.local
+.netlify
+.claude
+*.tsbuildinfo
