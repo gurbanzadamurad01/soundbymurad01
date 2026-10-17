@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">soundbymurad</string>
+    <string name="title_activity_main">soundbymurad</string>
+    <string name="package_name">com.soundbymurad.app</string>
+    <string name="custom_url_scheme">com.soundbymurad.app</string>
+</resources>

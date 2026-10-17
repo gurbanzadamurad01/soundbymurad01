@@ -1,0 +1,20 @@
+{
+  "appId": "com.soundbymurad.app",
+  "appName": "soundbymurad",
+  "webDir": "dist",
+  "backgroundColor": "#0b0b0d",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true },
+    "SplashScreen": {
+      "launchShowDuration": 900,
+      "launchAutoHide": true,
+      "backgroundColor": "#0b0b0d",
+      "showSpinner": false,
+      "androidScaleType": "CENTER_CROP"
+    },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#0b0b0d", "overlaysWebView": false }
+  }
+}

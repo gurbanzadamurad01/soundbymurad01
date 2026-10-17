@@ -1,9 +1,8 @@
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
-// @ts-expect-error plain JS module shared with the Netlify function
 import { fetchSunoSongs } from './shared/suno.mjs';
 
-// Serves /api/songs during `npm run dev`, same as the Netlify function does in production.
+// Serves /api/songs during `npm run dev`, same as the Vercel function does in production.
 const songsApi = (): Plugin => ({
   name: 'songs-api',
   configureServer(server) {

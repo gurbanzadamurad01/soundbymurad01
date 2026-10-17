@@ -1,5 +1,5 @@
 // Reads every public song from a Suno profile and turns it into the shape the app uses.
-// Shared by the Netlify function (live list), the Vite dev server and `npm run sync` (saved copy).
+// Shared by the Vercel function (live list), the Android app, the Vite dev server and `npm run sync` (saved copy).
 
 export const SUNO_HANDLE = 'gurbanzademurad45';
 
