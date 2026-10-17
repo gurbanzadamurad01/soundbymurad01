@@ -8,7 +8,7 @@ const links = [
 
 export default function Header() {
   return (
-    <header className="sticky top-0 z-30 pt-[env(safe-area-inset-top)] border-b border-white/5 bg-ink-950/75 backdrop-blur-xl">
+    <header className="sticky top-0 z-30 pt-[var(--safe-top,env(safe-area-inset-top))] border-b border-white/5 bg-ink-950/75 backdrop-blur-xl">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
         <Link to="/" aria-label="soundbymurad home">
           <Logo />

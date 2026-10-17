@@ -7,7 +7,7 @@ export default function PlayerBar() {
   if (!current) return null;
 
   return (
-    <div className="fixed inset-x-0 bottom-0 z-40 px-2 pb-[max(0.5rem,env(safe-area-inset-bottom))] sm:px-4 sm:pb-4">
+    <div className="fixed inset-x-0 bottom-0 z-40 px-2 pb-[max(0.5rem,var(--safe-bottom,env(safe-area-inset-bottom)))] sm:px-4 sm:pb-4">
       <div className="mx-auto flex max-w-6xl items-center gap-2 overflow-hidden rounded-2xl border border-white/10 bg-ink-800/95 p-1.5 shadow-2xl shadow-black/60 backdrop-blur-xl sm:gap-3">
         <iframe
           key={current.id}

@@ -16,7 +16,7 @@ export default function App() {
   }, [pathname]);
 
   return (
-    <div className="grain relative min-h-screen flex flex-col">
+    <div className="grain relative flex min-h-screen flex-col overflow-x-clip">
       <Header />
       <main className={`relative z-10 flex-1 ${current ? 'pb-28' : ''}`}>
         <Routes>

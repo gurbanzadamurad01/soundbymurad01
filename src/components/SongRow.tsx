@@ -10,7 +10,7 @@ export default function SongRow({ song, index }: { song: Song; index: number }) 
   return (
     <button
       onClick={() => play(song)}
-      className={`group flex w-full animate-fadeup items-center gap-4 rounded-2xl p-3 text-left transition ${
+      className={`group flex w-full min-w-0 animate-fadeup items-center gap-4 rounded-2xl p-3 text-left transition ${
         isCurrent ? 'bg-white/[0.06]' : 'hover:bg-white/[0.04]'
       }`}
       style={{ animationDelay: `${Math.min(index, 12) * 40}ms` }}
